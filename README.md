@@ -17,14 +17,17 @@ I believe in working openly as both a practice and a philosophy.
 #### How
 I wear many different hats, depending on the needs of the problem and situation. Current and past roles include: educator, researcher, team leader, community builder, project manager, software developer, and more.
 
+## Current Projects / Affiliations
+
+* [_Ecology_](https://esajournals.onlinelibrary.wiley.com/journal/19399170) - Data Paper Editor
+
 ## Past Projects
 
 * [Community for Rigor](https://c4r.io) - Curriculum Lead
-* [_Ecology_](https://esajournals.onlinelibrary.wiley.com/journal/19399170) - Data Paper Editor
 * [OLS](https://we-are-ols.org/) - Governance Committee
 * [Working Group on NIH DMSP Guidance](https://osf.io/uadxr/wiki/home/) - Founder and Organizer
 * [Planning for Open Grants](https://osf.io/n6svj/) - PI
-* [Code for Science and Society Event Fund](https://www.codeforsociety.org/eventfund) - Selection Committee (Past)
+* [Code for Science and Society Event Fund](https://www.codeforsociety.org/eventfund) - Selection Committee
 
 ## Trivia
 
